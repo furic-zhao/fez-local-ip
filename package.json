@@ -1,0 +1,23 @@
+{
+  "name": "fez-local-ip",
+  "version": "1.0.0",
+  "description": "获取本地ip地址",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furic-zhao/fez-local-ip.git"
+  },
+  "keywords": [
+    "localip",
+    "ipv4",
+    "ipv6",
+    "fez"
+  ],
+  "author": "furic-zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furic-zhao/fez-local-ip/issues"
+  },
+  "homepage": "https://github.com/furic-zhao/fez-local-ip#readme"
+}
