@@ -1,6 +1,6 @@
 {
   "name": "fez-local-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "获取本地ip地址",
   "main": "index.js",
   "scripts": {},
