@@ -11,7 +11,7 @@ npm install fez-local-ip --save-dev
 ## 开始使用
 
 ```
-import localIp from 'quick-local-ip';
+import localIp from 'fez-local-ip';
 ```
 
 - 获取本地系统IPv4地址
